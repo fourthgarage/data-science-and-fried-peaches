@@ -1,5 +1,5 @@
 # Diabetes prediction
-In this project i loaded Pima Indians Diabetes Database from Kaggle, visualized and analyzed the data, plotted a pairwise dependencies. i chose AUC as a quality metric and tried to choose a suitable classification model. PFM and logistic regression algorythms - my native realization. Parzen, Random forest and svm - sklearn realization.
+In this project i loaded Pima Indians Diabetes Database from Kaggle, visualized and analyzed the data, plotted a pairwise dependencies. I chose AUC as a quality metric and tried to choose a suitable classification model. PFM and logistic regression algorythms - my native realization. Parzen, Random forest and svm - sklearn realization.
 Results:
 * Parzen window model: AUC=0.76
 * PFM: AUC=0.82
