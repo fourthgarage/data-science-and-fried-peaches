@@ -7,4 +7,4 @@ Results:
 * Logistic regression: AUC=0.84
 * SVM classifier: AUC=0.87
 
-The best result showed SVM classifier with SVM features. I fitted SVC, then added distances to support vectors as new features and fitted SVC again
+The best result showed SVM classifier with SVM features. I fitted SVC, then added distances to support vectors as new features and fitted SVC again.
